@@ -1,0 +1,11 @@
+# Core dependencies
+yfinance==0.2.28
+pandas==2.1.0
+numpy==1.25.2
+scikit-learn==1.3.0
+matplotlib==3.7.2
+
+# Supporting libraries
+python-dateutil==2.8.2  # For date handling
+requests==2.31.0  # Used by yfinance
+urllib3==2.0.4  # Security updates
